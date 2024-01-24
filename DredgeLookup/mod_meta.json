@@ -1,0 +1,8 @@
+{
+	"Name": "Dredge Encyclopedia Lookup",
+	"ModGUID": "nogarcia.DredgeLookup",
+	"Version": "1.0.0",
+	"ModAssembly": "DredgeLookup.dll",
+	"MinWinchVersion": "0.3.1",
+	"Entrypoint": "DredgeLookup.Loader/Initialize"
+}
